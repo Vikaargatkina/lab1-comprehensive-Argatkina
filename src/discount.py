@@ -1,4 +1,5 @@
-import os
+# Эта строка специально сделана очень длинной,
+# чтобы flake8 выдал ошибку E501 (line too long)
 
 def calculate_discount(price):
     # Эта строка специально сделана очень длинной, чтобы flake8 выдал ошибку E501 (line too long)
