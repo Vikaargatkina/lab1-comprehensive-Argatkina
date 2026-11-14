@@ -48,7 +48,11 @@
 * @Vikaargatkina
 ```
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/893049c8-02a1-43e0-81b3-da65b79256d6" /
+![Branch Protection](https://github.com/user-attachments/assets/893049c8-02a1-43e0-81b3-da65b79256d6)
+
+
+
+
 
 
 ## 4. Инструментальный контроль качества
